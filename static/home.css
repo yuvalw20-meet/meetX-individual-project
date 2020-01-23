@@ -1,0 +1,27 @@
+body {
+	background-color: #78c4ff;
+}
+
+h1 {
+	color: #997e06;
+	text-align: center;
+	font-size: 7em;
+}
+
+.route_div {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 17em;
+	background-color: #997e06;
+	color: #78c4ff;
+}
+
+p {
+	font-size: 1.4em;
+	color: black;
+}
+
+.buttons_home {
+	width: 11em;
+}
